@@ -1,3 +1,3 @@
-# ReceiptManagement
+# Thrifty
 
-https://devpost.com/software/thrifty-69fay0
+Check out our Devpost submission - https://devpost.com/software/thrifty-69fay0
