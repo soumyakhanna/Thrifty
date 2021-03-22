@@ -1,3 +1,3 @@
 # ReceiptManagement
 
-will update later
+https://devpost.com/software/thrifty-69fay0
